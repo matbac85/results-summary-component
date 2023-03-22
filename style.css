@@ -1,0 +1,17 @@
+body{
+    font-family: 'Hanken Grotesk', sans-serif;
+    height: 100vh;
+    margin: 0;
+    font-size: 18px;
+}
+
+header{
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    min-height: 40%;
+}
+
+h1{
+    margin : 0;
+}
