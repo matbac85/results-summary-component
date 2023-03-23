@@ -155,7 +155,7 @@ button:hover{
     background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
 
-@media (min-width: 1440px){
+@media (min-width: 1440px) and (max-width: 1900px){
 
     body{
         display: flex;
